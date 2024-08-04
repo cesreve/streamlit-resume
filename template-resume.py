@@ -1,5 +1,6 @@
 import streamlit as st
 import time
+
 # --- FONCTIONS POUR STRUCTURER LE CV ---
 def afficher_section(titre, contenu):
     st.subheader(titre)
